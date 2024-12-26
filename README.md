@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Pocket Perk](https://github.com/vishnub123/Pocket-Perk) project
+- 🔭 I’m currently working on [Service Now] project
 
-- 🌱 I’m currently learning **Datastructures ,Algorithms**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnub123](https://github.com/vishnub123)
 
