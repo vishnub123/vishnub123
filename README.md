@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnub123](https://github.com/vishnub123)
 
-- 💬 Ask me about **react,js**
+- 💬 Ask me about **ML,NLP,Generative AI,react,js**
 
 - 📫 How to reach me **vishnusv63022@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1UXplsTHwASCfy-fcG-CaIbc2kBukUsL9/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
